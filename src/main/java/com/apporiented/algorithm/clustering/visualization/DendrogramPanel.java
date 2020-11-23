@@ -25,8 +25,6 @@ import java.awt.geom.Rectangle2D;
 
 import javax.swing.*;
 
-import com.apporiented.algorithm.clustering.Cluster;
-
 public class DendrogramPanel extends JPanel {
 
     private static final long serialVersionUID = 1L;
